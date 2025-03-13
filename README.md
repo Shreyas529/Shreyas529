@@ -27,10 +27,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">I'm Shreyas from IIITB<br><br>- 🔭 I’m Currently a Student<br>- 📚 I'm currently learning Next.js</p>
 
 ###
@@ -86,8 +82,5 @@
   <img src="https://profile-counter.glitch.me/Shreyas529/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Shreyas529/Shreyas529/output/snake.svg" alt="Snake animation" />
 
 ###
